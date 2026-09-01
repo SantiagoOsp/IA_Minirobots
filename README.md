@@ -21,12 +21,12 @@ Este repositorio contiene los materiales teóricos, apuntes de clase y trabajos 
 ## 🗂️ Estructura del Curso
 
 ### Profesor - Jose Martinez
-1. Introduccion IA
-2. Automatas celulares
-3. Algoritmos Geneticos
-4. Programacion genetica
-5. Redes neuronales
-6. Machine Learning
+- [ ] Introduccion IA
+- [ ] Automatas celulares
+- [ ] Algoritmos Geneticos
+- [ ] Programacion genetica
+- [ ] Redes neuronales
+- [ ] Machine Learning
 7. I.A. Generativa
 ### Profesor - Gustavo Perez
 8. Logica:
