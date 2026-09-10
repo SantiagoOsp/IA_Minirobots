@@ -14,7 +14,7 @@ Este repositorio contiene los materiales teóricos, apuntes de clase y trabajos 
 * **Profesor/a Titular:** Gustavo Perez
 * **Profesor/a Titular:** Flavio Prieto
 
-* Correo de informacion **jmcursosingenieria111@gmail.com**
+* Correo para enviar tareas: *jmcursosingenieria111@gmail.com*
 
 ---
 
@@ -27,20 +27,20 @@ Este repositorio contiene los materiales teóricos, apuntes de clase y trabajos 
 - [ ] Programacion genetica
 - [ ] Redes neuronales
 - [ ] Machine Learning
-7. I.A. Generativa
+- [ ] I.A. Generativa
 ### Profesor - Gustavo Perez
-8. Logica:
+- [ ] Logica:
     - Logica Clasica
     - Logica difusa
-9. Sistemas difusos
-10. Redes difusas
-11. Sistemas expertos
+- [ ] Sistemas difusos
+- [ ] Redes difusas
+- [ ] Sistemas expertos
 ### Profesor - Flavio Prieto
-12. Imagenes, Filtros y Morfologia
-13. Matematica
-14. Redes neuronales convolucionales (CNN)
-15. Detectores - Descriptores
-16. Deteccion y segmentacion
-17. Calibracion de camara
-18. Control servo-visual
-19. Introduccion al aprendizaje por refuerzo
+- [ ] Imagenes, Filtros y Morfologia
+- [ ] Matematica
+- [ ] Redes neuronales convolucionales (CNN)
+- [ ] Detectores - Descriptores
+- [ ] Deteccion y segmentacion
+- [ ] Calibracion de camara
+- [ ] Control servo-visual
+- [ ] Introduccion al aprendizaje por refuerzo
