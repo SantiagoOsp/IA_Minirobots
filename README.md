@@ -10,11 +10,9 @@ Este repositorio contiene los materiales teóricos, apuntes de clase y trabajos 
 
 ## 👨‍🏫 Información del Cómputo / Cátedra
 
-* **Profesor/a Titular:** Jose Martinez
-* **Profesor/a Titular:** Gustavo Perez
+* **Profesor/a Titular:** Jose Martinez - *jmcursosingenieria111@gmail.com*
+* **Profesor/a Titular:** Gustavo Perez - *gperezh@unal.edu.co*
 * **Profesor/a Titular:** Flavio Prieto
-
-* Correo para enviar tareas: *jmcursosingenieria111@gmail.com*
 
 ---
 
